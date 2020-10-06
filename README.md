@@ -21,7 +21,7 @@ Installing
 Add the dependency to your project:
 
 ```bash
-composer require dragonmantank/cron-expression
+composer require kfosoft/cron-expression
 ```
 
 Usage
